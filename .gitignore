@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+# sagemaker data
+src/sandbox-data
 
 # Distribution / packaging
 .Python
